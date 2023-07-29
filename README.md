@@ -1,5 +1,5 @@
 # DevOps Galactic Mission: Operation Terraform
-*Author: [Zhangir Kapishov](https://www.linkedin.com/in/zhangir-kapishov/)*
+*Author: [Hassan Mehmood]
 
 Welcome!
 

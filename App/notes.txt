@@ -1,0 +1,3 @@
+# docker push 835258370354.dkr.ecr.eu-north-1.amazonaws.com/sb-repo/:latest
+# docker tag space_beacon:latest 835258370354.dkr.ecr.eu-north-1.amazonaws.com/sb-repo:latest
+# aws ecr get-login-password --region eu-north-1 | docker login --username AWS --password-stdin 835258370354.dkr.ecr.eu-north-1.amazonaws.com

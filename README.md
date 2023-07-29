@@ -361,25 +361,3 @@ curl localhost:8080  #curl the app
 ```
 
 ---
-
-## Feedback
-
-The DevOps Galactic Mission: Operation Terraform was an exciting and beneficial experience for me. It provided a great opportunity to work with AWS and Terraform, allowing me to enhance my skills in infrastructure provisioning and management.
-
-This mission was particularly valuable because it encouraged a learn-by-doing approach. It enabled me to gain practical experience with essential tools such as AWS, Terraform, Docker, and Helm, which are widely used in the industry.
-
-The tasks were well-structured and covered crucial aspects of a deployment. Creating a VPC, setting up an EKS cluster, building a Docker image, and deploying the microservice using Helm helped me understand the end-to-end process of establishing a Kubernetes-based application.
-
-The challenge also emphasized the importance of best practices, including security measures, efficiency, and scalability. This knowledge will undoubtedly be valuable in real-world scenarios, where adhering to best practices is vital for successful deployments.
-
-Another important thing is that the mission does not restrict the Space Engineers to use or add any additional tools. Engineers are free to add CI/CD, Karpenter, and even expose the application to the internet. 
-
-Overall, I thoroughly enjoyed the time spent on this mission and found it to be an engaging and educational experience. It has further solidified my interest in DevOps and my desire to continue learning and growing in this field.
-
-Thank you for providing me with this opportunity, and I look forward to discussing my solution and experiences during the interview process:)
-
-May the force of DevOps be with you!
-
-Sincerely,
-
-Zhangir Kapishov

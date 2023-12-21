@@ -1,3 +1,5 @@
+![Maintained by Hassan](https://img.shields.io/badge/maintained%20by-Hassan.com-blue)
+
 # DevOps Galactic Mission: Operation Terraform
 *Author: [Hassan Mehmood]
 
